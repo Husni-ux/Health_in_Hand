@@ -1,0 +1,57 @@
+<?php
+	$lang = array(
+        // nav
+        "login" => "Login",
+        "question" => "Question",
+        "profile" => "Profile",
+        "editProfile" => "Edit Profile",
+        "dashboard" => "DashBoard",
+        "logout" => "Log Out",
+        "search" => "Search",
+        // 
+        "pic" => "Profile Picture",
+        "reservations" => "Reservations",
+        "patientName" => "Patient name",
+        "date" => "Date",
+        "description" => "Description",
+        "startTime" => "Start time",
+        "endTime" => "End time",
+        "timeReservation" => "Period of time from",
+        "info" => "Personal Info",
+        "email" => "Email",
+        "major" => "Major",
+        "phone" => "Phone",
+        "scoutDoctor" => "Scout Doctor",
+        "country" => "Country",
+        "gender" => "Gender",
+        "birth" => "Birth",
+        "phone" => "Phone",
+        "postComment" => "Post Comment",
+        "comment" => "Comment",
+        "cancel" => "Cancel",
+        "complaint" => "Your Complaint",
+        "phone" => "Phone",
+        "send" => "Send",
+        "delete" => "Delete",
+        "areYouSure" => "Are You Sure",
+        "description" => "Description",
+        "sTime" => "Start Time",
+        "clearForm" => "Clear Form",
+        "myAppointments" => "My Appointments",
+        "description" => "Description",
+        "dateDoctor" => "Date For Doctor",
+        "makeAppointment" => "Make Appointment",
+        "description" => "Description",
+        "doctorName" => "Doctor name",
+        "posts" => "Posts",
+        "comments" => "Comments",
+        "close" => "Close",
+        "success" => "Succes",
+        "error" => "Error",
+        "timeAvailable" => "Available time for the clinic",
+
+        
+
+
+	);
+    // profile en

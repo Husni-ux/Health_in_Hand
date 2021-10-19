@@ -1,0 +1,46 @@
+<?php
+	$lang = array(
+        // nav
+       "login" => "تسجيل الدخول",
+        "question" => "سؤال",
+        "profile" => "الملف الشخصي",
+        "editProfile" => "تعديل الملف الشخصي",
+        "dashboard" => "لوحة التحكم",
+        "logout" => "تسجيل الخروج",
+        "search" => "بحث",
+        // 
+        "admin" => "مشرف",
+        "users" => "المستخدمون",
+        "doctors" => "الأطباء",
+        "reports" => "التقارير",
+        "contactUs" => "تواصل معنا ",
+        "verificationRequests" => "طلبات التحقق",
+        "addAdmin" => "إضافة المسؤول",
+        "home" => "الصفحة الرئيسية",
+        "chnagePassword" => "تغيير كلمة المرور",
+        "tables" => "الجداول",
+        "dataTables" => "جداول البيانات",
+        "areYouSure" => "هل أنت واثق",
+        "delete" => "حذف",
+        "close" => "اغلاق",
+        "registrationAdmin" => "إدارة التسجيل",
+        "cerificationRequest" => "طلب الشهادة",
+        "noImage" => "لا توجد صورة",
+        "noLink" => "لا يوجد رابط",
+        "link" => "الرابط",
+        "changePassword" => "تغيير كلمة المرور",
+        "password" => "كلمه السر",
+        "confirmPassword" => "تأكيد كلمة المرور",
+        "change" => "يتغيرون",
+        "fname" => "الاسم الأول",
+        "lname" => "الاسم الاخير",
+        "email" => "بريد إلكتروني",
+        "create" => "انشاء",
+        "complaints" => "شكاوي",
+        "table" => "جدول",
+        "linkPost" => "رابط المنشور",
+        "adminRegestration" => "نتسجيل مدير",
+
+
+	);
+    // admin  en

@@ -1,0 +1,31 @@
+# Health in hand
+-----------------------------------------------------------------------------------
+**Version 1.0.0*
+-----------------------------------------------------------------------------------
+For health care institutions, hospitals and medical clinics, the process of obtaining medical information increases rapidly without resorting to medical
+advice and obtaining consultations that contribute to solving medical problems that require effort and time to obtain them.
+
+Our Health in Hand services provide a fast and accurate abstraction to solve medical problems and consultations in a fast and easy way, 
+provide the largest number of medical articles related to body systems and the most common diseases in the world, and help patients find 
+intuitive solutions until resorting to health care centres. Our goal is to achieve the largest database that contributes to finding quick 
+solutions to the most common diseases in the world, as well as providing the largest number of doctors of all specialties in one place, 
+facilitating communication with them, knowing the locations of medical clinics, and accurately booking appointments from anywhere you are in 
+the kingdom and around the world.
+-----------------------------------------------------------------------------------
+Install the database
+Enter the link : http://localhost:/phpmyadmin
+Click on new
+To create a new database
+Call it health_in_hand
+Then press create
+After creating the database
+Click import
+Choose file, enter the location file, the database file, choose the health_in_hand file, then press go
+-----------------------------------------------------------------------------------
+Website link : http://localhost:/index.php
+-----------------------------------------------------------------------------------
+Contact Us
+
+You can contact us by E-mail :  health_in_hand8@gmail.com
+-----------------------------------------------------------------------------------
+
